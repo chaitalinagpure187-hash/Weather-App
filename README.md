@@ -28,7 +28,7 @@ npm run dev
 
 ## 📸 Screenshot
 
-assets/weather-app.png
+src/assets/weather-app.png
 
 ## 👩‍💻 Author
 
