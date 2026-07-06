@@ -26,10 +26,6 @@ npm install
 npm run dev
 ```
 
-## 📸 Screenshot
-
-src/assets/weather-app.png
-
 ## 👩‍💻 Author
 
 **Chaitali Nagpure**
